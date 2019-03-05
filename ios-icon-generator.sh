@@ -166,17 +166,27 @@ Icon-32@2x      64
 Icon-128        128
 Icon-128@2x     256
 Icon-256        256
-Icon-256@2x     256
+Icon-256@2x     512
 Icon-512        512
 Icon-512@2x     1024
+Icon-20      20
 Icon-20@2x      40
 Icon-20@3x      60
+Icon-29      29
 Icon-29@2x      58
 Icon-29@3x      87
+Icon-40      40
 Icon-40@2x      80
+Icon-50      50
+Icon-50@2x      100
+Icon-57      57
+Icon-57@2x      114
 Icon-40@3x      120
 Icon-60@2x      120
 Icon-60@3x      180
+Icon-72      72
+Icon-72@2x      144
+Icon-76      76
 Icon-76@2x      152
 Icon-83.5@2x    167
 Icon-1024       1024
@@ -186,8 +196,10 @@ Icon-86@2x      172
 Icon-98@2x      196
 Icon-108@2x     216
 Icon-44@2x      88
+Icon-50      50
 Icon-50@2x      100
 EOF`
+
 
 OLD_IFS=$IFS
 IFS=$'\n'
